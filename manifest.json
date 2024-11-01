@@ -1,0 +1,15 @@
+{
+  "short_name": "BlueGO ",
+  "name": "BlueGO ",
+  "icons": [
+    {
+      "src": ".png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "index.html",
+  "background_color": "skyblue ",
+  "display": "standalone",
+  "theme_color": "skyblue"
+}
